@@ -56,6 +56,7 @@ view('templates/user_header', $data);
       <a href="<?= base_url('buku/buku.php'); ?>" class="btn btn-primary text-light">
         <small class="fas fa-fw fa-book mr-1"></small>
         <small>Lihat Kumpulan Buku</small>
+        <small>Buku Baru</small>
       </a>
     </div>
     <div class="col-md-6 m-auto">
